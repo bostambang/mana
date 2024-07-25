@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Makanan</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Warung Makan Enak</h1>
+    </header>
+
+    <section id="menu">
+        <h2>Menu</h2>
+        <ul>
+            <li>Rendang - Rp 30,000</li>
+            <li>Nasi Goreng - Rp 20,000</li>
+        </ul>
+    </section>
+
+    <section id="location">
+        <h2>Lokasi</h2>
+        <p>Jl. Makanan Enak No. 123, Jakarta</p>
+    </section>
+
+    <section id="contact">
+        <h2>Hubungi Kami</h2>
+        <p>WhatsApp: <a href="https://wa.me/6281234567890">+62 812-3456-7890</a></p>
+    </section>
+</body>
+
+</html>
